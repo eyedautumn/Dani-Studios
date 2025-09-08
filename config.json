@@ -26,5 +26,30 @@
     "100": "Admin",
     "75": "Tester",
     "70": "Content Creator"
+  },
+  "Notifications": {
+    "100": { "Name": "GROUP ADMIN", "Color": { "r": 255, "g": 237, "b": 34 } },
+    "110": { "Name": "TRANSLATOR", "Color": { "r": 202, "g": 211, "b": 98 } },
+    "120": { "Name": "QA LEAD", "Color": { "r": 223, "g": 189, "b": 18 } },
+    "130": { "Name": "ANALYTICS", "Color": { "r": 206, "g": 252, "b": 1 } },
+    "75": { "Name": "TESTER", "Color": { "r": 98, "g": 255, "b": 0 } },
+    "70": { "Name": "CC", "Color": { "r": 107, "g": 88, "b": 255 } },
+    "175": { "Name": "BUILDER", "Color": { "r": 255, "g": 90, "b": 90 } },
+    "150": { "Name": "CONTRIBUTOR", "Color": { "r": 255, "g": 0, "b": 0 } },
+    "200": { "Name": "DEVELOPER", "Color": { "r": 0, "g": 255, "b": 238 } },
+    "205": { "Name": "MANAGER", "Color": { "r": 0, "g": 255, "b": 247 } },
+    "253": { "Name": "CO-OWNER", "Color": { "r": 33, "g": 122, "b": 255 } }
+  },
+  "ChatRanks": {
+    "254": "<font color=\"rgb(255,50,50)\"><b>[OWNER]</b></font> %s",
+    "253": "<font color=\"rgb(255,100,0)\"><b>[CO-OWNER]</b></font> %s",
+    "205": "<font color=\"rgb(255,165,0)\"><b>[MANAGER]</b></font> %s",
+    "200": "<font color=\"rgb(50,200,255)\"><b>[DEVELOPER]</b></font> %s",
+    "175": "<font color=\"rgb(255,200,80)\"><b>[BUILDER]</b></font> %s",
+    "150": "<font color=\"rgb(0,200,0)\"><b>[CONTRIBUTOR]</b></font> %s",
+    "100": "<font color=\"rgb(255,215,0)\"><b>[ADMIN]</b></font> %s",
+    "75": "<font color=\"rgb(150,150,255)\"><b>[TESTER]</b></font> %s",
+    "70": "<font color=\"rgb(255,105,180)\"><b>[CC]</b></font> %s",
+    "1": "<font color=\"rgb(180,180,180)\"><b>[MEMBER]</b></font> %s"
   }
 }
