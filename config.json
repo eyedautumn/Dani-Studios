@@ -11,7 +11,8 @@
     "Translator": 110,
     "Admin": 100,
     "Tester": 75,
-    "Content Creator": 70
+    "Content Creator": 70,
+    "QA-Lead": 120
   },
   "Reverse": {
     "254": "Owner",
@@ -25,7 +26,8 @@
     "110": "Translator",
     "100": "Admin",
     "75": "Tester",
-    "70": "Content Creator"
+    "70": "Content Creator",
+    "120": "QA-Lead"
   },
   "Notifications": {
     "100": { "Name": "GROUP ADMIN", "Color": { "r": 255, "g": 237, "b": 34 } },
