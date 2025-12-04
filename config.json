@@ -40,9 +40,10 @@
     "150": { "Name": "CONTRIBUTOR", "Color": { "r": 255, "g": 0, "b": 0 } },
     "200": { "Name": "DEVELOPER", "Color": { "r": 0, "g": 255, "b": 238 } },
     "205": { "Name": "MANAGER", "Color": { "r": 0, "g": 255, "b": 247 } },
-    "253": { "Name": "CO-OWNER", "Color": { "r": 33, "g": 122, "b": 255 } }
+    "253": { "Name": "CO-OWNER", "Color": { "r": 33, "g": 122, "b": 255 } },
   },
   "ChatRanks": {
+    "255": "<font color=\"rgb(255,50,50)\"><b>[OWNER]</b></font> %s",
     "254": "<font color=\"rgb(255,50,50)\"><b>[OWNER]</b></font> %s",
     "253": "<font color=\"rgb(255,100,0)\"><b>[CO-OWNER]</b></font> %s",
     "205": "<font color=\"rgb(255,165,0)\"><b>[MANAGER]</b></font> %s",
