@@ -22,12 +22,11 @@
     "175": "Builder",
     "150": "Contributor",
     "130": "Analytics",
-    "120": "QA Lead",
+    "120": "QA-Lead",
     "110": "Translator",
     "100": "Admin",
     "75": "Tester",
-    "70": "Content Creator",
-    "120": "QA-Lead"
+    "70": "Content Creator"
   },
   "Notifications": {
     "100": { "Name": "GROUP ADMIN", "Color": { "r": 255, "g": 237, "b": 34 } },
@@ -40,7 +39,7 @@
     "150": { "Name": "CONTRIBUTOR", "Color": { "r": 255, "g": 0, "b": 0 } },
     "200": { "Name": "DEVELOPER", "Color": { "r": 0, "g": 255, "b": 238 } },
     "205": { "Name": "MANAGER", "Color": { "r": 0, "g": 255, "b": 247 } },
-    "253": { "Name": "CO-OWNER", "Color": { "r": 33, "g": 122, "b": 255 } },
+    "253": { "Name": "CO-OWNER", "Color": { "r": 33, "g": 122, "b": 255 } }
   },
   "ChatRanks": {
     "255": "<font color=\"rgb(255,50,50)\"><b>[OWNER]</b></font> %s",
