@@ -1,12 +1,6 @@
 {
   "Categories": [
     {
-      "id": "all",
-      "name": "All",
-      "icon": "rbxassetid://123939311616690",
-      "phrases": []
-    },
-    {
       "id": "greetings",
       "name": "Greetings",
       "icon": "rbxassetid://107237687797545",
