@@ -239,7 +239,9 @@
         { "id": "game_18", "text": "Build a Boat for Treasure" },
         { "id": "game_19", "text": "Forsaken" },
         { "id": "game_20", "text": "Fisch" },
-        { "id": "game_21", "text": "Sol's Rng" }
+        { "id": "game_21", "text": "Sol's Rng" },
+        { "id": "game_22", "text": "Powersurge" },
+        { "id": "game_23", "text": "My Fishing Brainrots" }
       ]
     }
   ],
