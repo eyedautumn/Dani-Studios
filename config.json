@@ -40,7 +40,7 @@
     "175": { "Name": "BUILDER", "Color": { "r": 255, "g": 90, "b": 90 } },
     "150": { "Name": "CONTRIBUTOR", "Color": { "r": 255, "g": 0, "b": 0 } },
     "200": { "Name": "DEVELOPER", "Color": { "r": 0, "g": 255, "b": 238 } },
-    "203": { "Name": "OG", "Color": { "r": 0, "g": 255, "b": 238 } },
+    "203": { "Name": "OG", "Color": { "r": 209, "g": 181, "b": 153 } },
     "205": { "Name": "MANAGER", "Color": { "r": 0, "g": 255, "b": 247 } },
     "253": { "Name": "CO-OWNER", "Color": { "r": 33, "g": 122, "b": 255 } }
   },
@@ -49,7 +49,7 @@
     "254": "<font color=\"rgb(255,50,50)\"><b>[OWNER]</b></font> %s",
     "253": "<font color=\"rgb(255,100,0)\"><b>[CO-OWNER]</b></font> %s",
     "205": "<font color=\"rgb(255,165,0)\"><b>[MANAGER]</b></font> %s",
-    "203": "<font color=\"rgb(255,165,0)\"><b>[OG]</b></font> %s",
+    "203": "<font color=\"rgb(209,181,153)\"><b>[OG]</b></font> %s",
     "200": "<font color=\"rgb(50,200,255)\"><b>[DEVELOPER]</b></font> %s",
     "175": "<font color=\"rgb(255,200,80)\"><b>[BUILDER]</b></font> %s",
     "150": "<font color=\"rgb(0,200,0)\"><b>[CONTRIBUTOR]</b></font> %s",
